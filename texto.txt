@@ -1,1 +1,2 @@
 hello word
+clase 2
