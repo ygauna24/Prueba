@@ -1,3 +1,7 @@
 hello word
 clase 2
-clase 3 hello word
+clase 3 hello Word
+git status
+git add
+git commit -m ""
+git push -u origin main
